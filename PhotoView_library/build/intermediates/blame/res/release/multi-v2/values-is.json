@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/pengfeixin/Desktop/MobilePlayer2/PhotoView_library/build/intermediates/res/merged/release/values-is/values-is.xml",
+            "map": [
+                {
+                    "source": "/Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/214583f421e5a7ea3aa36c96a1c58274/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/pengfeixin/Desktop/MobilePlayer2/PhotoView_library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-is/values-is.xml",
+            "map": [
+                {
+                    "source": "/Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/214583f421e5a7ea3aa36c96a1c58274/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

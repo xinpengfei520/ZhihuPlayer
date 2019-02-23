@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pengfeixin/Desktop/MobilePlayer2/PhotoView_library/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/214583f421e5a7ea3aa36c96a1c58274/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/pengfeixin/Desktop/MobilePlayer2/PhotoView_library/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/214583f421e5a7ea3aa36c96a1c58274/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/pengfeixin/Desktop/MobilePlayer2/PhotoView_library/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/214583f421e5a7ea3aa36c96a1c58274/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/pengfeixin/Desktop/MobilePlayer2/PhotoView_library/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/pengfeixin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/214583f421e5a7ea3aa36c96a1c58274/res/drawable/notification_icon_background.xml"
+    }
+]

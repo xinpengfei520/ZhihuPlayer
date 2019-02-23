@@ -1,0 +1,1 @@
+include ':jcvideoplayer-lib', ':PhotoView_library', ':app'
